@@ -61,18 +61,6 @@ I'm a developer based in ShenZhen, building on the Android ecosystem since 2016.
 ![Stars](https://img.shields.io/github/stars/ldlywt/JniHttp?style=flat-square&color=58A6FF)
 > NDK development: request network and parse JSON in C layer. Blog available.
 
-### [AndroidAdvance](https://github.com/ldlywt/AndroidAdvance)
-![Stars](https://img.shields.io/github/stars/ldlywt/AndroidAdvance?style=flat-square&color=58A6FF)
-> Android advanced path: AOP, custom IOC framework, ImageLoader, OkHttp, EventBus, Hook, memory optimization…
-
-### [MyCameraX](https://github.com/ldlywt/MyCameraX)
-![Stars](https://img.shields.io/github/stars/ldlywt/MyCameraX?style=flat-square&color=58A6FF)
-> Android CameraX quick implementation of WeChat-style video recording (tap photo, long-press video).
-
-### [flutter_demo](https://github.com/ldlywt/flutter_demo)
-![Stars](https://img.shields.io/github/stars/ldlywt/flutter_demo?style=flat-square&color=58A6FF)
-> Flutter bottom navigation bar practices and all network request methods.
-
 ---
 
 ## 📈 Activity
